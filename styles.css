@@ -1,0 +1,48 @@
+body {
+  background-color: #393e46;
+  text-align: center;
+  margin: 0;
+}
+h1 {
+  font-size: 15vh;
+  margin-top: 0;
+}
+
+h3 {
+  font-size: 5vh;
+}
+
+h2 {
+  font-size: 6vh;
+}
+
+img {
+  height: 200px;
+}
+
+a {
+  color: beige;
+}
+
+a:hover {
+  color: blanchedalmond;
+}
+
+.container {
+  font-family: "Akaya Kanadaka", cursive;
+  color: aquamarine;
+  position: relative;
+  align-items: center;
+}
+
+.players {
+  display: inline-block;
+  margin: 5vh 10vh;
+  text-decoration: underline;
+}
+
+.footer {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3vh;
+  color: beige;
+}
